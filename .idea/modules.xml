@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhoneFinder2.iml" filepath="$PROJECT_DIR$/PhoneFinder2.iml" />
       <module fileurl="file://C:\Users\ryan\AndroidStudioProjects\VoiceActivatedPhoneFinder\PhoneFinder2.iml" filepath="C:\Users\ryan\AndroidStudioProjects\VoiceActivatedPhoneFinder\PhoneFinder2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VoiceActivatedPhoneFinder.iml" filepath="$PROJECT_DIR$/VoiceActivatedPhoneFinder.iml" />
+      <module fileurl="file://C:\Users\Julio\AndroidStudioProjects\PhoneFinder2\VoiceActivatedPhoneFinder.iml" filepath="C:\Users\Julio\AndroidStudioProjects\PhoneFinder2\VoiceActivatedPhoneFinder.iml" />
       <module fileurl="file://C:\Users\Julio\AndroidStudioProjects\PhoneFinder2\.idea\VoiceActivatedPhoneFinder.iml" filepath="C:\Users\Julio\AndroidStudioProjects\PhoneFinder2\.idea\VoiceActivatedPhoneFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
